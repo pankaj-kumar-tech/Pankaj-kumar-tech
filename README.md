@@ -7,8 +7,7 @@
 <br/>
 
 ## 👨🏻‍💻 About Me:
-
-![Work GIF](https://cdn.pixabay.com/animation/2022/10/11/09/05/09-05-26-529_256.gif)
+<img  src="https://cdn.pixabay.com/animation/2022/10/11/09/05/09-05-26-529_256.gif" height="290px" align="right" />
 
 - 🖐Hi there!, I'm Pankaj Kumar Singh.
 
