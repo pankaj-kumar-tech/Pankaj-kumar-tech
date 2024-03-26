@@ -8,6 +8,7 @@
 
 ## 👨🏻‍💻 About Me:
 <img  src="https://i.imgur.com/1S6A2z9.gif" height="290px" align="right" />
+![Work GIF](https://i.imgur.com/1S6A2z9.gif)
 
 - 🖐Hi there!, I'm Pankaj Kumar Singh.
 
