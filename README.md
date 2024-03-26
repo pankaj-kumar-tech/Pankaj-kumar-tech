@@ -9,6 +9,7 @@
 ## 👨🏻‍💻 About Me:
 
 <img  src="./work.gif" height="290px" align="right" />
+![Work GIF](work.gif)
 
 - 🖐Hi there!, I'm Pankaj Kumar Singh.
 
