@@ -1,5 +1,5 @@
             
-<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Pankaj Kumar Singh </h1>
 
 <div align="center">
 <img src ="./Github Banner.jpg" />
@@ -10,9 +10,9 @@
 
 <img  src="./working.gif" height="290px" align="right" />
 
-- 🖐Hi there!, I'm Vinayak Singh.
+- 🖐Hi there!, I'm Pankaj Kumar Singh.
 
-- 🙋‍♂️ All about me is at [www.vinayaksingh.com](https://vinayaksingh.com)
+<!-- - 🙋‍♂️ All about me is at [www.PankajKumarSingh.com](https://PankajKumarSingh.com) -->
 
 - 📖 I’m student of MCA at `VIT Chennai`.
 
