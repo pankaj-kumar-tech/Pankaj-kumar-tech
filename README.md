@@ -2,7 +2,7 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Pankaj Kumar Singh </h1>
 
 <div align="center">
-<img src ="./Github Banner.jpg" />
+<!-- <img src ="./Github Banner.jpg" /> -->
 </div>
 <br/>
 
