@@ -41,14 +41,14 @@
 ## 📊 GitHub Stats:
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-singh-tech&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pankaj-kumar-tech&theme=highcontrast" alt="GitHub Streak" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-singh-tech&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-tech&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p>
-  <a href="https://github.com/Pankaj-singh-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-singh-tech&theme=highcontrast&show_icons=true" alt="GitHub Stats" />
+  <a href="https://github.com/pankaj-kumar-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=pankaj-kumar-tech&theme=highcontrast&show_icons=true" alt="GitHub Stats" />
   </a>
 </p>
 
